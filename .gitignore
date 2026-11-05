@@ -1,0 +1,18 @@
+# Backend
+ecom-backend/target/
+ecom-backend/.idea/
+*.iml
+
+# Frontend
+ecom-frontend/node_modules/
+ecom-frontend/dist/
+
+# Environment files
+.env
+*.env
+application-local.properties
+
+# System files
+.DS_Store
+Thumbs.db
+ecom-backend/src/main/resources/application.properties
